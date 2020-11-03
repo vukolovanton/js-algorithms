@@ -1,0 +1,10 @@
+{
+  "name": "gsok4",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@babel/runtime": "^7.12.1"
+  }
+}

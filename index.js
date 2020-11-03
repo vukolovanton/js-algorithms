@@ -4,5 +4,6 @@ import { bubbleSort } from "./Sort/bubbleSort";
 import { selectionSort } from "./Sort/selectionSort";
 import { insertionSort } from "./Sort/insertionSort";
 import { mergeSort } from "./Sort/mergeSort";
+import { radixSort } from "./Sort/radixSort";
 
-console.log(mergeSort([37, 45, 29, 8, 14, 21, 88, 16]));
+console.log(radixSort([37, 4245, 129, 8, 14, 221, 88, 1146]));
